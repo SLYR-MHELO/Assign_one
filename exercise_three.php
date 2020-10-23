@@ -28,3 +28,4 @@ if(isset($_POST['getgcd']))
         echo "GCD of $a1 and $a2 is: ", $gcd;
 }
 ?>
+//pullreq
